@@ -119,7 +119,7 @@ app.service('studentService', ['$q', function ($q) {
         {
           "name": "Iryna Pavlyuk",
           "websiteUrl": "https://ipavlyuk.github.io/project-01/",
-          "codeSourceUrl": "",
+          "codeSourceUrl": "https://github.com/ipavlyuk/the-carpathians-project",
           "cvUrl": "https://github.com/ipavlyuk/photo/blob/gh-pages/photo_project.jpg"
         },
         {
@@ -163,7 +163,7 @@ app.service('studentService', ['$q', function ($q) {
         {
           "name": "Yevhenii Perkhun",
           "websiteUrl": "https://evgperhun.github.io/mobile-first/",
-          "codeSourceUrl": "",
+          "codeSourceUrl": "https://github.com/evgperhun/mobile-first",
           "cvUrl": ""
         },
         {
